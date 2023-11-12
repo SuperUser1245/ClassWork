@@ -13,8 +13,13 @@ div{
   text-align:center;
   color:white;
   font-weight:900;
-  font-size:20px;
+  font-size:24px;
 }
 p+p{
   font-style:italic;
+}
+
+.content p{
+  text-align:justify;
+  
 }

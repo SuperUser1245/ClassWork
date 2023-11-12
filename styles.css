@@ -1,15 +1,20 @@
-.nav-bar{
-  background-color:lime;
+body{
+  background-color:#bdedfc;
 }
-.content{
-  background-color:LightGreen;
+
+div{
+  background-color:#c6f4f5;
 }
 .footer{
-  background-color:green;
+  background-color:#d5f5ec;
   text-align:justify;
 }
-span{
+.content span{
+  text-align:center;
   color:white;
   font-weight:900;
   font-size:20px;
+}
+p+p{
+  font-style:italic;
 }

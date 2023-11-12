@@ -1,0 +1,14 @@
+.nav-bar{
+  background-color:lime;
+}
+.content{
+  background-color:LightGreen;
+}
+.footer{
+  background-color:green;
+  text-align:justify;
+}
+span{
+  color:gray;
+  font-weight:900;
+}

@@ -47,11 +47,11 @@ a:visited{
   visibility:hidden;
 }
 .block{
-  display:block;
+  display: block;
 }
 .op2{
   opacity:0.5;
 }
 .inline {
-  display:inline;
+  display: inline;
 }

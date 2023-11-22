@@ -23,3 +23,23 @@ p+p{
   text-align:justify;
   
 }
+h4::before{
+  content: "Hello";
+  color:green;
+  font-weight:bold;
+}
+h5::after{
+  content: "Bye!";
+  color:green;
+  font-weight:bold;
+}
+h3:hover{
+  color:gray;
+  font-style:italic;
+}
+a:link{
+  color:red;
+}
+a:visited{
+  color:black;
+}

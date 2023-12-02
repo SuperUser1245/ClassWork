@@ -60,10 +60,16 @@ a:visited{
 img{
   filter: grayscale(50%);
   position: relative;
+  width:160px;
+  height:90x;
   left:50px;
   animation: image 3s;
 }
-
+img:hover{
+  width:240px;
+  height:135x;
+  
+}
 @keyframes image {
   from {left:1000px;}
   to {left:50px}

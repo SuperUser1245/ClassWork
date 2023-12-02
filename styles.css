@@ -60,10 +60,11 @@ a:visited{
 img{
   filter: grayscale(50%);
   position: relative;
+  left:50px;
   animation: image 3s;
 }
 
 @keyframes image {
   from {left:1000px;}
-  to {left:100px}
+  to {left:50px}
 }
